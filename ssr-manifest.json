@@ -479,41 +479,41 @@
   "index.html": [
     "/web3vuedapp_nft2/assets/Regina.0cc2a3e1.jpeg"
   ],
-  "assets/app.8efd7e55.js-unocss-hash.css": [
+  "assets/app.fecf1dff.js-unocss-hash.css": [
     "/web3vuedapp_nft2/assets/Regina.0cc2a3e1.jpeg"
   ],
   "../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/web3vuedapp_nft2/assets/virtual_pwa-register.407d154d.js"
+    "/web3vuedapp_nft2/assets/virtual_pwa-register.cc76d905.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/web3vuedapp_nft2/assets/404.52291adc.js"
+    "/web3vuedapp_nft2/assets/404.1cfa5d21.js"
   ],
   "src/layouts/404.vue": [
-    "/web3vuedapp_nft2/assets/404.52291adc.js"
+    "/web3vuedapp_nft2/assets/404.1cfa5d21.js"
   ],
   "src/layouts/home.vue": [
-    "/web3vuedapp_nft2/assets/home.cb13cd73.js"
+    "/web3vuedapp_nft2/assets/home.02c6353d.js"
   ],
   "src/pages/README.md": [
-    "/web3vuedapp_nft2/assets/README.c271d6be.js"
+    "/web3vuedapp_nft2/assets/README.676afb23.js"
   ],
   "src/pages/about.md": [
-    "/web3vuedapp_nft2/assets/about.92595db7.js"
+    "/web3vuedapp_nft2/assets/about.826f7e34.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/web3vuedapp_nft2/assets/_...all_.452deaa7.js"
+    "/web3vuedapp_nft2/assets/_...all_.8499b9aa.js"
   ],
   "src/pages/[...all].vue": [
-    "/web3vuedapp_nft2/assets/_...all_.452deaa7.js"
+    "/web3vuedapp_nft2/assets/_...all_.8499b9aa.js"
   ],
   "src/store/user.ts": [
-    "/web3vuedapp_nft2/assets/_name_.320a747e.js"
+    "/web3vuedapp_nft2/assets/_name_.3e184ebc.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/web3vuedapp_nft2/assets/_name_.320a747e.js"
+    "/web3vuedapp_nft2/assets/_name_.3e184ebc.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/web3vuedapp_nft2/assets/_name_.320a747e.js"
+    "/web3vuedapp_nft2/assets/_name_.3e184ebc.js"
   ],
   "node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
     "/web3vuedapp_nft2/assets/workbox-window.prod.es5.d2780aeb.js"
